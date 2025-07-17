@@ -3,8 +3,4 @@ hi
 hi
 hi
 hi new one
-<<<<<<< HEAD
-hi new one is added
-=======
-hi no needed new one
->>>>>>> 557c8008d94397279b65638ea09327304e9e4370
+
